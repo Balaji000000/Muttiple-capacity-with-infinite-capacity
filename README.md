@@ -27,8 +27,8 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 ## Program:
 ```
 
-DEVELOPED BY : RAKSHITHA DEVI J
-REGISTER NO : 212221230082
+DEVELOPED BY : BALAJI N
+REGISTER NO  : 23000409
 
 import math
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
